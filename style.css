@@ -36,8 +36,6 @@ h2 {
     width: 100px;
     display: inline-block;
     padding: 20px 10px;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
 }
 .reference li a img:hover {
     opacity: 0.5;
