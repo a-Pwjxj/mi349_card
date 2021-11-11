@@ -24,8 +24,8 @@ h2 {
 }
 .card .avatar {
     width: 80px;
-    border-radius: 100%;
-    margin-top: -50px;
+    border-radius: 80%;
+    margin-top: -20px;
 }
 .reference {
     margin: 0;
